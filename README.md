@@ -21,18 +21,17 @@ Follow these steps to get the project up and running on your local machine:
 ### 1. Clone the repository:
 ```
 git clone https://github.com/itstechelites/fastapi.git
-cd fastapi-tutorial
 ```
 
 ### 2. Create and activate a virtual environment:
 ```
-python3 -m venv env
-source env/bin/activate   # On Windows, use `env\Scripts\activate`
+python3 -m venv myenv
+source myenv/bin/activate   # On Windows, use `env\Scripts\activate`
 ```
 
 ### 3. Install the required dependencies:
 ```
-pip install -r requirements.txt
+pip install fastapi uvicorn
 ```
 
 ## Running the Application
@@ -55,17 +54,18 @@ Project Structure
 
 ## The repository structure is as follows:
 ```
-fastapi-tutorial/
+/
 ├── main.py             # The main application file
-├── requirements.txt    # List of dependencies
+├── License    
 └── README.md           # This file
 ```
 
 ## Useful Links
 
-FastAPI Documentation
-Uvicorn Documentation
-Contributing
+[FastAPI Documentation](https://fastapi.tiangolo.com/)
+[Uvicorn Documentation](https://www.uvicorn.org/)
+
+## Contributing
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
 

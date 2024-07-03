@@ -1,4 +1,4 @@
-# ** FastAPI Application Tutorial **
+# FastAPI Application Tutorial
 
 Welcome to the FastAPI Application Tutorial repository! This codebase is designed to accompany the "Learn how to create a FastAPI application in just 5 minutes!" YouTube video tutorial.
 
@@ -10,8 +10,8 @@ In this tutorial, we'll build a FastAPI application from scratch in under 5 minu
 
 Before you get started, ensure you have the following:
 
-> Basic knowledge of Python
-> Python 3.7+ installed on your machine
+> Basic knowledge of Python, 
+> Python 3.7+ installed on your machine, 
 > macOS (though the instructions are easily adaptable for other operating systems)
 
 ## Installation
